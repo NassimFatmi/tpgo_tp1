@@ -1,0 +1,50 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	font-family: poppins, Arial, Helvetica, sans-serif;
+	background-color: #eee;
+}
+.container {
+	width: 80%;
+	margin: 2rem auto;
+}
+h1 {
+	text-align: center;
+	margin-bottom: 2rem;
+}
+.sacados,
+.result {
+	font-size: 1.5rem;
+}
+.sacados span,
+.result span {
+	color: #e91e63;
+	font-weight: bold;
+}
+.objets {
+	padding: 1rem 0;
+}
+table,
+th,
+td,
+tr {
+	border: 1px solid black;
+}
+
+th,
+td {
+	padding: 0.5rem;
+	text-align: center;
+}
+.matrice {
+	padding: 1rem 0;
+}
+.matrice span {
+	font-size: 1.5rem;
+}
+.matrice table {
+	margin-top: 2rem;
+}
